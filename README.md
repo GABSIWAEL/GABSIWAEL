@@ -1,106 +1,100 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=200&section=header&text=Wael%20Gabsi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20DevOps%20%C2%B7%20AI%2FLLM%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=200&section=header&text=Wael%20Gabsi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20DevOps%20%C2%B7%20Open%20to%20Work&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+cloud-native+microservices+%F0%9F%9A%80;Docker+%2B+Kubernetes+%2B+RabbitMQ+%2B+Kong;Teaching+CI%2FCD+%26+SQL+on+YouTube+%F0%9F%8E%A5;Currently+exploring+AI%2FLLM+systems+%F0%9F%A4%96&font=Fira+Code&center=true&width=560&height=40&color=2563EB&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+Microservices+Engineer;.NET+%2B+Spring+Boot+%2B+Docker+%2B+Kubernetes;Actively+looking+for+full-time+roles+%F0%9F%9A%80&font=Fira+Code&center=true&width=560&height=40&color=2563EB&vCenter=true&size=20" />
 </p>
 
 <p align="center">
-  <a href="https://waeldev.ovh"><img src="https://img.shields.io/badge/Portfolio-waeldev.ovh-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabsiwael/"><img src="https://img.shields.io/badge/LinkedIn-gabsiwael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@waelgabsi6104"><img src="https://img.shields.io/badge/YouTube-Wael%20Gabsi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="mailto:wael@waeldev.ovh"><img src="https://img.shields.io/badge/Email-wael%40waeldev.ovh-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gabsiwael/"><img src="https://img.shields.io/badge/LinkedIn-gabsiwael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://waeldev.ovh"><img src="https://img.shields.io/badge/Portfolio-waeldev.ovh-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@waelgabsi6104"><img src="https://img.shields.io/badge/YouTube-Wael%20Gabsi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GABSIWAEL&label=Profile%20Views&color=2563eb&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/GABSIWAEL?label=Followers&style=flat-square&color=2563eb" />
-</p>
+<br/>
 
-<br />
+## 👋 About Me
 
-## 🧭 About Me
-
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-
-- 🎓 Master's student in **Software Engineering** at **ESPRIT**, Tunisia (2022 – 2025)
-- 🏗️ I design and build **cloud-native microservices** — banking systems, HR platforms, e-learning apps
-- 🐳 Comfortable across the stack: **.NET**, **Spring Boot**, **Flask/Python**, **Angular**
-- ☸️ Into **DevOps & infra**: Docker, Kubernetes, RabbitMQ, Kong API Gateway, Prometheus/Grafana, ELK
-- 🎥 I teach and share what I build on **YouTube** — CI/CD pipelines, deployment automation, SQL fundamentals
-- 🤝 Open to full-time roles and freelance backend/DevOps work
-- 📍 Based in Sfax, Tunisia
-
-<br clear="right"/>
-
----
-
-## 🎥 YouTube — Teaching & Content
-
-<a href="https://www.youtube.com/@waelgabsi6104">
-  <img src="https://img.shields.io/badge/Subscribe-Wael%20Gabsi%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-I publish tutorials on deployment, DevOps automation, and databases — turning what I learn while building real systems into structured lessons.
+Junior Full Stack / Backend Engineer graduating from **ESPRIT** in 2025, with hands-on experience shipping **microservices, REST APIs, and cloud-native systems** across internships and freelance work. I build with **.NET, Spring Boot, and React/Angular**, and I'm comfortable owning the full pipeline — from database design to Docker/Kubernetes deployment. Currently based in Sfax, Tunisia, and **open to full-time roles, relocation, and remote opportunities**.
 
 <table>
 <tr>
-<td width="280">
-<a href="https://www.youtube.com/watch?v=n7eY6gRtGdc">
-<img src="https://img.youtube.com/vi/n7eY6gRtGdc/hqdefault.jpg" width="270"/>
-</a>
+<td align="center" width="25%">
+
+**🎓 Education**
+Master's, Software Eng.
+ESPRIT · 2022–2025
+
 </td>
-<td valign="top">
+<td align="center" width="25%">
 
-**🎬 Deploy and Automate Your Website | CI/CD Pipeline** — `35:42`
+**💼 Experience**
+3 internships/freelance
+Enterprise + startup
 
-Learn how to automate deployment, manage a production pipeline, and host reliable applications end-to-end.
+</td>
+<td align="center" width="25%">
 
-`#DevOps` `#CI/CD` `#Automation`
+**🚀 Shipped**
+6+ production-style
+full-stack projects
 
-<a href="https://www.youtube.com/watch?v=n7eY6gRtGdc">▶️ Watch on YouTube</a>
+</td>
+<td align="center" width="25%">
+
+**🌍 Languages**
+Arabic · French · English
 
 </td>
 </tr>
 </table>
 
-**Also on the channel:** SQL fundamentals (queries, joins, database design) and hands-on deployment walkthroughs. New lessons land regularly — [subscribe](https://www.youtube.com/@waelgabsi6104) to catch them, or check the [teaching page](https://waeldev.ovh/teaching.html) on my site for 1:1 sessions.
+---
+
+## 💼 Experience
+
+```text
+Nov 2024 – Mar 2025   Remote Freelance Software Developer — BourassAutoMoto
+                      Built features for an online driving/road-safety e-learning platform
+
+Jul 2024 – Sep 2024   Software Engineering Intern — Target Solution
+                      Designed & developed an HR management system module
+
+Jul 2023 – Sep 2023   Software Engineering Intern — Capgemini Engineering
+                      App design, implementation, testing & debugging in a team setting
+```
+
+📄 Full experience, co-ops, and academic history available on request or in my [resumé](mailto:wael@waeldev.ovh?subject=Resume%20Request).
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
-
-**Data & Messaging**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-</p>
-
-**DevOps & Cloud**
-<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
+
+**Also comfortable with:** JWT/OAuth authentication, Prometheus & Grafana, Kong API Gateway, CI/CD pipelines, REST API design, Postman/Swagger.
 
 ---
 
@@ -157,32 +151,50 @@ E-commerce store for books and school supplies: product catalog with categories/
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GABSIWAEL&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABSIWAEL&layout=compact&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/Docker_Certified_Associate-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes_Fundamentals-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_(PCAP)-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman_API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IELTS_B2_English-003049?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GABSIWAEL&hide_border=true" />
-</p>
+Full list with issue dates on my [certifications page](https://waeldev.ovh/certifications.html).
+
+---
+
+## 🎥 Also Teaching on YouTube
+
+I turn what I build into tutorials — deployment automation, CI/CD pipelines, and SQL fundamentals.
+
+<a href="https://www.youtube.com/@waelgabsi6104">
+<img src="https://img.youtube.com/vi/n7eY6gRtGdc/hqdefault.jpg" width="320"/>
+</a>
+
+**[▶️ Deploy and Automate Your Website | CI/CD Pipeline](https://www.youtube.com/watch?v=n7eY6gRtGdc)** — 35:42 walkthrough of building a production deployment pipeline.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GABSIWAEL&theme=minimal&hide_border=true" width="95%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GABSIWAEL&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABSIWAEL&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Hiring? Let's talk.
 
-I'm open to full-time roles, freelance projects, and technical conversations about backend architecture, DevOps, or AI/LLM integration.
+I'm actively looking for **full-time backend / full-stack engineering roles** — open to relocation and remote work.
 
 <p align="center">
-  <a href="https://waeldev.ovh"><img src="https://img.shields.io/badge/🌐_Portfolio-waeldev.ovh-2563eb?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/gabsiwael/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@waelgabsi6104"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:wael@waeldev.ovh"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:wael@waeldev.ovh"><img src="https://img.shields.io/badge/📧_Email_Me-wael%40waeldev.ovh-D14836?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/gabsiwael/"><img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://waeldev.ovh/contact.html"><img src="https://img.shields.io/badge/🌐_Portfolio-Get_in_Touch-2563eb?style=for-the-badge" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=120&section=footer" width="100%" />
