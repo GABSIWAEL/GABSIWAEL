@@ -106,11 +106,52 @@ Learn how to automate deployment, manage a production pipeline, and host reliabl
 
 ## 🚀 Featured Projects
 
-| | |
-|---|---|
-| **[Bank-As-A-Service (BAAS)](https://github.com/GABSIWAEL/Bank-As-A-Service--BAAS-)** | Cloud-native microservices banking platform simulating accounts, ATMs, cards, and branches — .NET 8 APIs, Angular frontend, RabbitMQ eventing, Kong API Gateway, and a full Prometheus/Grafana/ELK observability stack, deployed via Docker & Kubernetes. |
-| **[MultiServices-Bank-Application](https://github.com/GABSIWAEL/MultiServices-Bank-Application)** | Polyglot microservices bank: .NET 8 (accounts) + Spring Boot (transfers) + Python Flask (notifications), talking over RabbitMQ and gRPC, each with its own database (Postgres/MySQL/MongoDB), orchestrated with Docker Compose. |
-| **[docker-cleanup](https://github.com/GABSIWAEL/docker-cleanup)** | A small Bash utility for VPS/server maintenance — safely prunes stopped containers, dangling images, and build cache while preserving volumes, with disk-usage reporting. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [Bank-As-A-Service (BAAS)](https://github.com/GABSIWAEL/FINAL-YEAR-BANKING-AS-A-SERVICE-PROJECT)
+**Final-year project** · ⭐ 1
+
+Cloud-native microservices banking platform simulating accounts, ATMs, cards, and branches. Six .NET 8 microservices behind a Kong API Gateway, event-driven via RabbitMQ, polyglot persistence (PostgreSQL/MySQL/MongoDB), Angular frontend, and a full Prometheus/Grafana/ELK observability stack — deployed with Docker & Kubernetes.
+
+`C#` `.NET 8` `Angular` `RabbitMQ` `Kong` `Kubernetes`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 [Euro Route Flow](https://github.com/GABSIWAEL/EURO-ROUTE-FLOW-PROJECT)
+**Delivery Management & Logistics Platform**
+
+Full-stack delivery platform connecting customers, admins, and drivers: a React/TypeScript web app, a Flutter driver app, and a Spring Boot REST API secured with JWT + RBAC, backed by PostgreSQL with Flyway migrations. Handles delivery lifecycle, driver assignment, and real-time status tracking end-to-end.
+
+`Spring Boot` `React` `TypeScript` `Flutter` `PostgreSQL` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💼 [ERP Management Platform](https://github.com/GABSIWAEL/ERP-Managementt-Software-Saas)
+**HR & Business Management SaaS**
+
+Modular ERP built around HR: employee lifecycle, attendance, leave, payroll, recruitment → employee conversion, performance reviews, asset tracking, and structured offboarding — all as separate domain modules on a Spring Boot 3 + PostgreSQL backend with JWT auth and role-based access control.
+
+`Java 17` `Spring Boot 3` `PostgreSQL` `JWT` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Maktabati Store](https://github.com/GABSIWAEL/MAKTABATI-STORE-)
+**Full-stack Bookstore Platform**
+
+E-commerce store for books and school supplies: product catalog with categories/series/school packs, cart and checkout flow, and a JWT-secured admin panel for managing products, customers, and orders. React 19 + Vite frontend, FastAPI + SQLAlchemy backend, PostgreSQL, fully Dockerized.
+
+`React 19` `TypeScript` `FastAPI` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+</table>
 
 📂 More on my [portfolio](https://waeldev.ovh/projects.html) and [GitHub repositories](https://github.com/GABSIWAEL?tab=repositories).
 
@@ -119,12 +160,16 @@ Learn how to automate deployment, manage a production pipeline, and host reliabl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GABSIWAEL&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GABSIWAEL&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GABSIWAEL&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABSIWAEL&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABSIWAEL&layout=compact&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GABSIWAEL&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GABSIWAEL&theme=minimal&hide_border=true" width="95%" />
 </p>
 
 ---
