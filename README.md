@@ -1,13 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=200&section=header&text=Wael%20Gabsi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=C%23%2F.NET%20%26%20Angular%20Full%20Stack%20Engineer%20%C2%B7%20Open%20to%20Work&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=210&section=header&text=Wael%20Gabsi&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=C%23%2F.NET%20%26%20Angular%20Full%20Stack%20Engineer%20%C2%B7%20Open%20to%20Work&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer+%E2%80%94+.NET+%2B+Angular;Built+a+Banking-as-a-Service+platform+at+STB;Open+to+full-time+roles+%26+international+relocation+%F0%9F%9A%80&font=Fira+Code&center=true&width=560&height=40&color=2563EB&vCenter=true&size=19" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer+%E2%80%94+.NET+%2B+Angular;Built+a+Banking-as-a-Service+platform+at+STB;Sharing+what+I+learn+on+YouTube+%26+Medium;Open+to+full-time+roles+%26+international+relocation+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=40&color=2563EB&vCenter=true&size=19" />
 </p>
 
 <p align="center">
   <a href="mailto:waelwaelgabsi@gmail.com"><img src="https://img.shields.io/badge/Email-waelwaelgabsi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gabsiwael/"><img src="https://img.shields.io/badge/LinkedIn-gabsiwael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://waeldev.ovh"><img src="https://img.shields.io/badge/Portfolio-waeldev.ovh-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@WAELGABSIDEV"><img src="https://img.shields.io/badge/YouTube-@WAELGABSIDEV-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -28,8 +29,8 @@ Bac+5 · 2022–2025
 <td align="center" width="25%">
 
 **💼 Experience**
-1 internship (STB)
-2 freelance/co-op roles
+2 internships (STB, Target Solution)
+1 freelance role (remote)
 
 </td>
 <td align="center" width="25%">
@@ -56,7 +57,7 @@ Open to relocation
 ### 🏦 Full Stack Software Engineer — Intern (Final-Year Project)
 **STB · Société Tunisienne de Banque** — Tunis, Tunisia · *Feb 2025 – Sep 2025*
 
-Designed and built a distributed **Banking-as-a-Service (BaaS)** system compliant with Open Banking standards, as part of a multi-intern team including QA and DevSecOps. Built backend microservices in C#/ASP.NET Core with EF Core for data access and migrations, inter-service communication via **gRPC and RabbitMQ**, and token-based authentication. Wrote and maintained unit tests with xUnit as part of QA validation. Set up CI/CD pipelines with GitHub Actions and monitoring via Elastic Stack, Prometheus, and Grafana.
+Designed and built a distributed **Banking-as-a-Service (BaaS)** system compliant with Open Banking standards, as part of a multi-intern team including QA and DevSecOps. Built backend microservices in C#/ASP.NET Core with EF Core for data access and migrations, inter-service communication via **gRPC and RabbitMQ**, and token-based authentication. Applied OOP design principles (interfaces, inheritance, dependency injection) to keep the service layer maintainable. Wrote and maintained unit tests with xUnit as part of QA validation. Set up CI/CD pipelines with GitHub Actions and monitoring via Elastic Stack, Prometheus, and Grafana.
 
 `.NET` `EF Core` `xUnit` `Angular` `SQL Server` `Kong` `gRPC` `RabbitMQ` `Elastic Stack` `Docker` `Kubernetes` `GitHub Actions`
 
@@ -110,7 +111,7 @@ Independently developed an HR management platform: employee management, authenti
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-**Also:** microservices & event-driven architecture, Scrum/Kanban, QA testing.
+**Also:** microservices & event-driven architecture, OAuth2/JWT & RBAC, Scrum/Kanban, QA testing.
 
 ---
 
@@ -167,6 +168,12 @@ System covering appointment scheduling, patient records, and medical follow-up, 
 
 ---
 
+## 🎥 Content
+
+I occasionally share what I'm building and learning on **[YouTube](https://www.youtube.com/@WAELGABSIDEV)** and **Medium** — walkthroughs of .NET/Angular projects, architecture decisions, and lessons from the field.
+
+---
+
 ## 🎓 Education
 
 **Engineering Degree, Software Engineering (Bac+5)** — ESPRIT, Tunis · 2022 – 2025
@@ -176,7 +183,7 @@ System covering appointment scheduling, patient records, and medical follow-up, 
 
 - **IELTS** — British Council / IDP, Score 6.0 (B2 equivalent)
 - Member, **Development Club** — ESPRIT
-- Occasional technical content creation on **YouTube** and **Medium**
+- Content creator on **[YouTube](https://www.youtube.com/@WAELGABSIDEV)** and Medium
 
 ---
 
@@ -185,6 +192,10 @@ System covering appointment scheduling, patient records, and medical follow-up, 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=GABSIWAEL&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABSIWAEL&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GABSIWAEL&hide_border=true&theme=default" />
 </p>
 
 ---
@@ -197,6 +208,7 @@ I'm actively looking for **full-time software engineering roles** — open to re
   <a href="mailto:waelwaelgabsi@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-waelwaelgabsi%40gmail.com-D14836?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/gabsiwael/"><img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://waeldev.ovh/contact.html"><img src="https://img.shields.io/badge/🌐_Portfolio-Get_in_Touch-2563eb?style=for-the-badge" /></a>
+  <a href="https://www.youtube.com/@WAELGABSIDEV"><img src="https://img.shields.io/badge/▶️_YouTube-Subscribe-FF0000?style=for-the-badge" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=120&section=footer" width="100%" />
