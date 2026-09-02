@@ -172,6 +172,14 @@ System covering appointment scheduling, patient records, and medical follow-up, 
 
 I occasionally share what I'm building and learning on **[YouTube](https://www.youtube.com/@WAELGABSIDEV)** and **Medium** — walkthroughs of .NET/Angular projects, architecture decisions, and lessons from the field.
 
+<p align="center">
+  <a href="https://youtu.be/t9DFDJA5xdA"><img src="https://img.youtube.com/vi/t9DFDJA5xdA/hqdefault.jpg" width="32%" alt="Watch on YouTube" /></a>
+  <a href="https://youtu.be/oUO9VUYzp24"><img src="https://img.youtube.com/vi/oUO9VUYzp24/hqdefault.jpg" width="32%" alt="Watch on YouTube" /></a>
+  <a href="https://youtu.be/n7eY6gRtGdc"><img src="https://img.youtube.com/vi/n7eY6gRtGdc/hqdefault.jpg" width="32%" alt="Watch on YouTube" /></a>
+</p>
+
+<p align="center"><a href="https://www.youtube.com/@WAELGABSIDEV">▶️ More on the channel</a></p>
+
 ---
 
 ## 🎓 Education
