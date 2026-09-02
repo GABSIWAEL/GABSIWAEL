@@ -1,49 +1,49 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=200&section=header&text=Wael%20Gabsi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20DevOps%20%C2%B7%20Open%20to%20Work&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=200&section=header&text=Wael%20Gabsi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=C%23%2F.NET%20%26%20Angular%20Full%20Stack%20Engineer%20%C2%B7%20Open%20to%20Work&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+Microservices+Engineer;.NET+%2B+Spring+Boot+%2B+Docker+%2B+Kubernetes;Actively+looking+for+full-time+roles+%F0%9F%9A%80&font=Fira+Code&center=true&width=560&height=40&color=2563EB&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer+%E2%80%94+.NET+%2B+Angular;Built+a+Banking-as-a-Service+platform+at+STB;Open+to+full-time+roles+%26+international+relocation+%F0%9F%9A%80&font=Fira+Code&center=true&width=560&height=40&color=2563EB&vCenter=true&size=19" />
 </p>
 
 <p align="center">
-  <a href="mailto:wael@waeldev.ovh"><img src="https://img.shields.io/badge/Email-wael%40waeldev.ovh-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:waelwaelgabsi@gmail.com"><img src="https://img.shields.io/badge/Email-waelwaelgabsi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gabsiwael/"><img src="https://img.shields.io/badge/LinkedIn-gabsiwael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://waeldev.ovh"><img src="https://img.shields.io/badge/Portfolio-waeldev.ovh-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@waelgabsi6104"><img src="https://img.shields.io/badge/YouTube-Wael%20Gabsi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <br/>
 
 ## 👋 About Me
 
-Junior Full Stack / Backend Engineer graduating from **ESPRIT** in 2025, with hands-on experience shipping **microservices, REST APIs, and cloud-native systems** across internships and freelance work. I build with **.NET, Spring Boot, and React/Angular**, and I'm comfortable owning the full pipeline — from database design to Docker/Kubernetes deployment. Currently based in Sfax, Tunisia, and **open to full-time roles, relocation, and remote opportunities**.
+Junior software engineer (**ESPRIT**, 2025) specialized in enterprise application development with **.NET (C#, ASP.NET Core, Entity Framework Core)** and **Angular/TypeScript**. Experienced building backend services and data-processing systems — inter-service communication, EF Core migrations, and unit testing with xUnit. Comfortable in multi-country, multi-disciplinary teams (QA, DevSecOps) with Git-based collaboration and CI/CD pipelines. Professional French and English (**IELTS 6.0, B2**) — **open to international relocation**.
 
 <table>
 <tr>
 <td align="center" width="25%">
 
 **🎓 Education**
-Master's, Software Eng.
-ESPRIT · 2022–2025
+Software Eng., ESPRIT
+Bac+5 · 2022–2025
 
 </td>
 <td align="center" width="25%">
 
 **💼 Experience**
-3 internships/freelance
-Enterprise + startup
-
-</td>
-<td align="center" width="25%">
-
-**🚀 Shipped**
-6+ production-style
-full-stack projects
+1 internship (STB)
+2 freelance/co-op roles
 
 </td>
 <td align="center" width="25%">
 
 **🌍 Languages**
-Arabic · French · English
+Arabic (native)
+French & English (B2)
+
+</td>
+<td align="center" width="25%">
+
+**📍 Location**
+Ariana, Tunisia
+Open to relocation
 
 </td>
 </tr>
@@ -53,18 +53,26 @@ Arabic · French · English
 
 ## 💼 Experience
 
-```text
-Nov 2024 – Mar 2025   Remote Freelance Software Developer — BourassAutoMoto
-                      Built features for an online driving/road-safety e-learning platform
+### 🏦 Full Stack Software Engineer — Intern (Final-Year Project)
+**STB · Société Tunisienne de Banque** — Tunis, Tunisia · *Feb 2025 – Sep 2025*
 
-Jul 2024 – Sep 2024   Software Engineering Intern — Target Solution
-                      Designed & developed an HR management system module
+Designed and built a distributed **Banking-as-a-Service (BaaS)** system compliant with Open Banking standards, as part of a multi-intern team including QA and DevSecOps. Built backend microservices in C#/ASP.NET Core with EF Core for data access and migrations, inter-service communication via **gRPC and RabbitMQ**, and token-based authentication. Wrote and maintained unit tests with xUnit as part of QA validation. Set up CI/CD pipelines with GitHub Actions and monitoring via Elastic Stack, Prometheus, and Grafana.
 
-Jul 2023 – Sep 2023   Software Engineering Intern — Capgemini Engineering
-                      App design, implementation, testing & debugging in a team setting
-```
+`.NET` `EF Core` `xUnit` `Angular` `SQL Server` `Kong` `gRPC` `RabbitMQ` `Elastic Stack` `Docker` `Kubernetes` `GitHub Actions`
 
-📄 Full experience, co-ops, and academic history available on request or in my [resumé](mailto:wael@waeldev.ovh?subject=Resume%20Request).
+### 🚗 Full Stack Developer — Freelance (Remote)
+**PermisMaroc.com** — Morocco (remote) · *Oct 2024 – Feb 2025*
+
+Independently designed and built, end to end, an e-learning platform for driving-license exam preparation, deployed to production. Collaborated with a cross-functional team (design, business, marketing), built progress tracking and adaptive mock exams, and automated deployment with Nginx, Cloudflare, and Docker.
+
+`Spring Boot` `Angular` `MySQL` `Nginx` `Docker` `Jenkins` `Cloudflare`
+
+### 🧑‍💼 Full Stack Developer — Internship
+**Target Solution** — Tunisia · *Jul 2024 – Sep 2024*
+
+Independently developed an HR management platform: employee management, authentication/authorization, and leave requests with a full approval workflow (submission, tracking, approval/rejection). Tested in real conditions with the company's teams.
+
+`Spring Boot` `Angular` `MySQL`
 
 ---
 
@@ -72,76 +80,84 @@ Jul 2023 – Sep 2023   Software Engineering Intern — Capgemini Engineering
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-**Also comfortable with:** JWT/OAuth authentication, Prometheus & Grafana, Kong API Gateway, CI/CD pipelines, REST API design, Postman/Swagger.
+**Also:** microservices & event-driven architecture, Scrum/Kanban, QA testing.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏦 [Bank-As-A-Service (BAAS)](https://github.com/GABSIWAEL/FINAL-YEAR-BANKING-AS-A-SERVICE-PROJECT)
-**Final-year project** · ⭐ 1
+**Final-year internship project — built at STB**
 
-Cloud-native microservices banking platform simulating accounts, ATMs, cards, and branches. Six .NET 8 microservices behind a Kong API Gateway, event-driven via RabbitMQ, polyglot persistence (PostgreSQL/MySQL/MongoDB), Angular frontend, and a full Prometheus/Grafana/ELK observability stack — deployed with Docker & Kubernetes.
+Distributed BaaS system compliant with Open Banking standards. Six C#/.NET microservices behind a Kong API Gateway, inter-service comms via gRPC + RabbitMQ, EF Core migrations, token-based auth, xUnit test coverage, and full observability with Elastic Stack, Prometheus & Grafana — deployed via Docker & Kubernetes.
 
-`C#` `.NET 8` `Angular` `RabbitMQ` `Kong` `Kubernetes`
+`C#` `.NET` `EF Core` `gRPC` `RabbitMQ` `Kong` `Kubernetes`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚚 [Euro Route Flow](https://github.com/GABSIWAEL/EURO-ROUTE-FLOW-PROJECT)
-**Delivery Management & Logistics Platform**
+### 🎓 PermisMaroc.com
+**Freelance — deployed to production**
 
-Full-stack delivery platform connecting customers, admins, and drivers: a React/TypeScript web app, a Flutter driver app, and a Spring Boot REST API secured with JWT + RBAC, backed by PostgreSQL with Flyway migrations. Handles delivery lifecycle, driver assignment, and real-time status tracking end-to-end.
+End-to-end e-learning platform for driving-license exam preparation, with progress tracking and adaptive mock exams. Built solo, from database to deployment (Nginx, Cloudflare, Docker), for a cross-functional remote team.
 
-`Spring Boot` `React` `TypeScript` `Flutter` `PostgreSQL` `JWT`
+`Spring Boot` `Angular` `MySQL` `Nginx` `Cloudflare`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💼 [ERP Management Platform](https://github.com/GABSIWAEL/ERP-Managementt-Software-Saas)
-**HR & Business Management SaaS**
+### 🧑‍💼 [SaaS ERP Platform](https://github.com/GABSIWAEL/ERP-Managementt-Software-Saas)
+**Personal project · 2025 – ongoing**
 
-Modular ERP built around HR: employee lifecycle, attendance, leave, payroll, recruitment → employee conversion, performance reviews, asset tracking, and structured offboarding — all as separate domain modules on a Spring Boot 3 + PostgreSQL backend with JWT auth and role-based access control.
+Multi-tenant ERP covering HR, recruitment, asset management, and team collaboration. React.js frontend with a .NET microservices backend, real-time updates via WebSockets, and OAuth2/JWT authentication with role-based access control.
 
-`Java 17` `Spring Boot 3` `PostgreSQL` `JWT` `Docker`
+`React.js` `.NET` `EF Core` `PostgreSQL` `WebSockets` `OAuth2/JWT`
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [Maktabati Store](https://github.com/GABSIWAEL/MAKTABATI-STORE-)
-**Full-stack Bookstore Platform**
+### 🏥 Hospital Management System
+**Academic project — ESPRIT · 2024**
 
-E-commerce store for books and school supplies: product catalog with categories/series/school packs, cart and checkout flow, and a JWT-secured admin panel for managing products, customers, and orders. React 19 + Vite frontend, FastAPI + SQLAlchemy backend, PostgreSQL, fully Dockerized.
+System covering appointment scheduling, patient records, and medical follow-up, with documented system architecture and API contracts for maintainability.
 
-`React 19` `TypeScript` `FastAPI` `PostgreSQL` `Docker`
+`.NET` `EF Core` `Angular` `SQL Server`
 
 </td>
 </tr>
@@ -151,30 +167,16 @@ E-commerce store for books and school supplies: product catalog with categories/
 
 ---
 
-## 📜 Certifications
+## 🎓 Education
 
-<p>
-  <img src="https://img.shields.io/badge/Docker_Certified_Associate-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes_Fundamentals-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_(PCAP)-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman_API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/IELTS_B2_English-003049?style=flat-square" />
-</p>
+**Engineering Degree, Software Engineering (Bac+5)** — ESPRIT, Tunis · 2022 – 2025
+**Bachelor's Degree, Electrical Engineering & Automation** — ISET Mahdia, Tunisia · 2018 – 2022
 
-Full list with issue dates on my [certifications page](https://waeldev.ovh/certifications.html).
+## 📜 Certifications & Involvement
 
----
-
-## 🎥 Also Teaching on YouTube
-
-I turn what I build into tutorials — deployment automation, CI/CD pipelines, and SQL fundamentals.
-
-<a href="https://www.youtube.com/@waelgabsi6104">
-<img src="https://img.youtube.com/vi/n7eY6gRtGdc/hqdefault.jpg" width="320"/>
-</a>
-
-**[▶️ Deploy and Automate Your Website | CI/CD Pipeline](https://www.youtube.com/watch?v=n7eY6gRtGdc)** — 35:42 walkthrough of building a production deployment pipeline.
+- **IELTS** — British Council / IDP, Score 6.0 (B2 equivalent)
+- Member, **Development Club** — ESPRIT
+- Occasional technical content creation on **YouTube** and **Medium**
 
 ---
 
@@ -189,10 +191,10 @@ I turn what I build into tutorials — deployment automation, CI/CD pipelines, a
 
 ## 📫 Hiring? Let's talk.
 
-I'm actively looking for **full-time backend / full-stack engineering roles** — open to relocation and remote work.
+I'm actively looking for **full-time software engineering roles** — open to relocation and remote work.
 
 <p align="center">
-  <a href="mailto:wael@waeldev.ovh"><img src="https://img.shields.io/badge/📧_Email_Me-wael%40waeldev.ovh-D14836?style=for-the-badge" /></a>
+  <a href="mailto:waelwaelgabsi@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-waelwaelgabsi%40gmail.com-D14836?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/gabsiwael/"><img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://waeldev.ovh/contact.html"><img src="https://img.shields.io/badge/🌐_Portfolio-Get_in_Touch-2563eb?style=for-the-badge" /></a>
 </p>
