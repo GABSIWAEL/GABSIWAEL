@@ -4,12 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer+%E2%80%94+.NET+%2B+Angular;Built+a+Banking-as-a-Service+platform+at+STB;Sharing+what+I+learn+on+YouTube+%26+Medium;Open+to+full-time+roles+%26+international+relocation+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=40&color=2563EB&vCenter=true&size=19" />
 </p>
 
-<p align="center">
-  <a href="mailto:waelwaelgabsi@gmail.com"><img src="https://img.shields.io/badge/Email-waelwaelgabsi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabsiwael/"><img src="https://img.shields.io/badge/LinkedIn-gabsiwael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://waeldev.ovh"><img src="https://img.shields.io/badge/Portfolio-waeldev.ovh-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@WAELGABSIDEV"><img src="https://img.shields.io/badge/YouTube-@WAELGABSIDEV-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
+
 
 <br/>
 
